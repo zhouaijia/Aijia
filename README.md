@@ -1,0 +1,2 @@
+# Aijia
+An android architecture.
